@@ -1,4 +1,4 @@
-**Do not use this! This is a historical snapshot of the "prns" project for forensics, archival and historical analysis purposes.**
+**Do not use this! This is a historical snapshot of the "prns" project for forensics, archival and historical analysis purposes. Any claimed licenses on this work are null and void.**
 
 ---
 
